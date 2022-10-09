@@ -1,0 +1,50 @@
+body {
+  background-color: rgb(72, 74, 72);
+}
+
+img {
+  display: block;
+  width: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 30px;
+  bo
+}
+
+h2
+
+{
+  text-align: center;
+  font-size: 100px;
+  color: white;
+  font: georgia;
+  margin-bottom: 150px;
+  margin-left: 150px;
+
+}
+
+.txtinfo
+{
+  color: gray;
+  text-align: center;
+}
+
+.button-link
+{ 
+  height: 50px;
+  background-color: black;
+  color: white;
+  font: monospace;
+  margin-bottom: 15px;
+  border: 30px;
+  margin-left: 55px;
+  margin-right: 50px;
+}
+
+.button-link:hover {
+  background-color: lightgrey;
+}
+
+.button-link:active {
+background-color: gray;
+}
